@@ -1,5 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using People.API.Application.InputModels;
+using People.API.Application.Services;
+using People.API.Infrastructure.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;

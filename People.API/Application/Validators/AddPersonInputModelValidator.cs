@@ -1,4 +1,5 @@
-﻿using People.API.Application.InputModels;
+﻿using FluentValidation;
+using People.API.Application.InputModels;
 
 namespace People.API.Application.Validators
 {
